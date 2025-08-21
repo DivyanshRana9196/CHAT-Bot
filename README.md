@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
-# zipp.ai_case2
 
 >>>>>>> 4fc6336e3550c3506cc661364d3fc18e361c6db9
 # 🧠 Local AI Chatbot with RAG (Retrieval-Augmented Generation)
@@ -178,5 +177,4 @@ This project is open-source and free to use for learning and research.
 
 Made by Divyansh Rana
 =======
-# zipp_ai_task
 >>>>>>> 2a675aa7c3baf99282c37a1413d6beb39923e8c9
